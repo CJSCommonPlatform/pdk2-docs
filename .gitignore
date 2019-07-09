@@ -1,1 +1,3 @@
 node_modules
+removeCurrent.sh
+copyFromPDK.sh
